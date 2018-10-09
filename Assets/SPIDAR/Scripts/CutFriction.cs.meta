@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab7c20368178efd498e381a55b4b33bc
+timeCreated: 1525936869
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - onFriction: {fileID: 13400000, guid: 392e437104b04c34cad789568e58e556, type: 2}
+  - offFriction: {fileID: 13400000, guid: 9579fa8b8dfd1164bbf45ca820139d95, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
