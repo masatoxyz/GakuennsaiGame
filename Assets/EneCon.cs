@@ -4,6 +4,9 @@ using UnityEngine;
 using UnityEngine.AI;
 using UnityStandardAssets.Characters.ThirdPerson;
 
+[RequireComponent(typeof(UnityEngine.AI.NavMeshAgent))]
+[RequireComponent(typeof(ThirdPersonCharacter))]
+
 public class EnemyController : MonoBehaviour
 {
     [System.NonSerialized]
